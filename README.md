@@ -1,2 +1,2 @@
-# MapReduce-Performance_Testing
+# MapReduce Performance Testing.
 MapReduce performance testing using TeraGen, TeraSort, and TeraValidate
